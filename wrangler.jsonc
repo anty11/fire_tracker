@@ -1,0 +1,9 @@
+{
+  "name": "firetracker",
+  "compatibility_date": "2026-07-24",
+  "main": "worker/index.js",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+}
